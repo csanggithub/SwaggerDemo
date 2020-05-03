@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerDemo", "SwaggerDemo\SwaggerDemo.csproj", "{5D2DAFD8-B427-40FE-A939-676E704771D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dtos", "Dtos\Dtos.csproj", "{EBAEA4A5-DE2C-4BDB-B57D-BC3EDB8EB481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2DAFD8-B427-40FE-A939-676E704771D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2DAFD8-B427-40FE-A939-676E704771D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2DAFD8-B427-40FE-A939-676E704771D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2DAFD8-B427-40FE-A939-676E704771D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAEA4A5-DE2C-4BDB-B57D-BC3EDB8EB481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAEA4A5-DE2C-4BDB-B57D-BC3EDB8EB481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAEA4A5-DE2C-4BDB-B57D-BC3EDB8EB481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAEA4A5-DE2C-4BDB-B57D-BC3EDB8EB481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F26E51-B16C-4C3D-A493-A2E4211A4D90}
+	EndGlobalSection
+EndGlobal
